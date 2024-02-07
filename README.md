@@ -1,0 +1,2 @@
+# Loki
+Python based ransomware
