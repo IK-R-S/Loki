@@ -1,3 +1,4 @@
+![Malware type](https://img.shields.io/badge/malware-ransomware-red)
 # Loki
 Loki é um ransomware altamente sofisticado que usa um único comando de servidor para iniciar um processo de criptografia recursiva nos sistemas das vítimas. Este processo encripta rapidamente todos os arquivos acessíveis, tornando-os inacessíveis para os usuários
 
